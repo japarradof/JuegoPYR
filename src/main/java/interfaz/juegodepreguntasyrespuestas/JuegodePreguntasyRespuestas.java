@@ -21,7 +21,7 @@ public class JuegodePreguntasyRespuestas {
         // Creamos 2 arrays, uno con las preguntas y otro con las respuestas
         String[] preguntas = {
             // Preguntas Juan A.
-            "",
+            "¿Cuál es la capital de Francia?",
             "¿Cuál es el símbolo químico del hierro?",
             "¿Cuál es el planeta más cercano al Sol?",
             "¿Cuál es la raíz cuadrada de 25?",
