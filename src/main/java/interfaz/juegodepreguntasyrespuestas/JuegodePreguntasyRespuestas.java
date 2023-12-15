@@ -28,7 +28,7 @@ public class JuegodePreguntasyRespuestas {
             "¿De qué país es capital Roma?",
             "¿Cual es la capital de España?",
             "¿Cuando empezo la guerra Civil?",
-            "Suma de 1+1",
+            "Cual es la Suma de 1+1?",
             "¿Simbolo químico del agua?",
             "¿Como se llama el famoso fontanero gordo con gorra roja y una M en la gorra?",
             // Preguntas Enrique
