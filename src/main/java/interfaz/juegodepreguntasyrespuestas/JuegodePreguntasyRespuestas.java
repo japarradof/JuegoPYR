@@ -26,6 +26,7 @@ public class JuegodePreguntasyRespuestas {
             "¿Cuál es el planeta más cercano al Sol?",
             "¿Cuál es la raíz cuadrada de 25?",
             "¿De qué país es capital Roma?",
+            "Cual es la capital de España?",
             // Preguntas Enrique
         };
 
@@ -36,6 +37,8 @@ public class JuegodePreguntasyRespuestas {
             "Mercurio",
             "5",
             "Italia",
+            "Madrid",
+            
             // Respuestas Enrique
         };
 
