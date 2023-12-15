@@ -28,9 +28,9 @@ public class JuegodePreguntasyRespuestas {
             "¿De qué país es capital Roma?",
             "Cual es la capital de España?",
             "¿Cuando empezo la guerra Civil?",
-            "¿Como se llama el gran actor de Titanic?",
-            "¿Como se llama la famosa serie de una esponja amarilla?",
-            "¿Cual es el apellido de Pedro Sanchez?",
+            "Suma de 1+1",
+            "Simbolo químico del agua?",
+            "Como se llama el famoso fontanero gordo con gorra roja y una M en la gorra?",
             // Preguntas Enrique
         };
 
@@ -43,9 +43,12 @@ public class JuegodePreguntasyRespuestas {
             "Italia",
             "Madrid",
             "1936",
-            "Leonardo Dicaprio",
-            "Bob Esponja",
-            "Sanchez",
+            "2",
+            "H2O",
+            "Mario",
+            
+            
+            
             
             
             // Respuestas Enrique
