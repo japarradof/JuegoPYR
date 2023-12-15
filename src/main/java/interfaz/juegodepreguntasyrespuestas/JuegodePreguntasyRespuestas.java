@@ -26,11 +26,11 @@ public class JuegodePreguntasyRespuestas {
             "¿Cuál es el planeta más cercano al Sol?",
             "¿Cuál es la raíz cuadrada de 25?",
             "¿De qué país es capital Roma?",
-            "Cual es la capital de España?",
+            "¿Cual es la capital de España?",
             "¿Cuando empezo la guerra Civil?",
             "Suma de 1+1",
-            "Simbolo químico del agua?",
-            "Como se llama el famoso fontanero gordo con gorra roja y una M en la gorra?",
+            "¿Simbolo químico del agua?",
+            "¿Como se llama el famoso fontanero gordo con gorra roja y una M en la gorra?",
             // Preguntas Enrique
         };
 
