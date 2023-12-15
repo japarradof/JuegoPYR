@@ -26,12 +26,12 @@ public class JuegodePreguntasyRespuestas {
             "¿Cuál es el planeta más cercano al Sol?",
             "¿Cuál es la raíz cuadrada de 25?",
             "¿De qué país es capital Roma?",
+            // Preguntas Enrique
             "¿Cual es la capital de España?",
             "¿Cuando empezo la guerra Civil?",
             "Cual es la Suma de 1+1?",
             "¿Simbolo químico del agua?",
             "¿Como se llama el famoso fontanero gordo con gorra roja y una M en la gorra?",
-            // Preguntas Enrique
         };
 
         String[] respuestas = {
@@ -41,17 +41,12 @@ public class JuegodePreguntasyRespuestas {
             "Mercurio",
             "5",
             "Italia",
+            // Respuestas Enrique
             "Madrid",
             "1936",
             "2",
             "H2O",
             "Mario",
-            
-            
-            
-            
-            
-            // Respuestas Enrique
         };
 
         // Creamos un bucle para ir intercambiando las preguntas y sus correspondientes respuestas de manera aleatoria conforme se van contestando
