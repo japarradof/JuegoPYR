@@ -27,6 +27,7 @@ public class JuegodePreguntasyRespuestas {
             "¿Cuál es la raíz cuadrada de 25?",
             "¿De qué país es capital Roma?",
             "Cual es la capital de España?",
+            "¿Cuanto le mide el pito a Enrique?"
             // Preguntas Enrique
         };
 
@@ -38,6 +39,7 @@ public class JuegodePreguntasyRespuestas {
             "5",
             "Italia",
             "Madrid",
+            "2metros",
             
             // Respuestas Enrique
         };
