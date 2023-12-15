@@ -27,7 +27,10 @@ public class JuegodePreguntasyRespuestas {
             "¿Cuál es la raíz cuadrada de 25?",
             "¿De qué país es capital Roma?",
             "Cual es la capital de España?",
-            "¿Cuanto le mide el pito a Enrique?"
+            "¿Cuando empezo la guerra Civil?",
+            "¿Como se llama el gran actor de Titanic?",
+            "¿Como se llama la famosa serie de una esponja amarilla?",
+            "¿Cual es el apellido de Pedro Sanchez?",
             // Preguntas Enrique
         };
 
@@ -39,7 +42,11 @@ public class JuegodePreguntasyRespuestas {
             "5",
             "Italia",
             "Madrid",
-            "2metros",
+            "1936",
+            "Leonardo Dicaprio",
+            "Bob Esponja",
+            "Sanchez",
+            
             
             // Respuestas Enrique
         };
